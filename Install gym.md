@@ -8,7 +8,7 @@
 
 > `--default-timeout=1000` 表示设置超时限制
 
-安装完成后执行Test1.py文件测试
+安装完成后执行Test_1.py文件测试
 
 ## 2. 安装atari-py
 对于win10系统，需要重新设定atari_py文件，执行命令:
@@ -17,4 +17,4 @@
 
 > 如果之前已经安装了低版本的，使用`pip uninstall atari-py` 卸载
 
-安装完成后执行Test2.py文件测试
+安装完成后执行Test_2.py文件测试
